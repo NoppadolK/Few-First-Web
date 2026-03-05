@@ -210,3 +210,23 @@ body.lang-en .i18n-en{ display:block; }
   height: fit-content;
   margin-left: 0; /* กันดันหลุดแนว */
 }
+/* Education Timeline */
+.timeline{
+  margin-top: 14px;
+  padding-left: 16px;
+  border-left: 2px solid var(--border);
+}
+.timeline-item{
+  padding: 10px 12px;
+  margin: 0 0 12px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--card);
+}
+.timeline-item h3{
+  margin: 0 0 6px;
+  font-size: 15px;
+}
+.timeline-item p{
+  margin: 0 0 8px;
+}

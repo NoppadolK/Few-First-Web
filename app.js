@@ -28,6 +28,7 @@ function applyLabels(lang) {
   const dict = {
     home:     { th: "หน้าแรก",  en: "Home" },
     about:    { th: "เกี่ยวกับ", en: "About" },
+    education:{ th: "การศึกษา", en: "Education" },
     projects: { th: "ผลงาน",    en: "Projects" },
     contact:  { th: "ติดต่อ",   en: "Contact" },
     email:    { th: "อีเมล",   en: "Email" },
