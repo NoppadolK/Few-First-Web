@@ -230,3 +230,14 @@ body.lang-en .i18n-en{ display:block; }
 .timeline-item p{
   margin: 0 0 8px;
 }
+.project-row{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  flex-wrap:wrap;
+  margin-top:8px;
+}
+.project-row .muted{
+  flex: 1 1 auto;
+  min-width: 220px;
+}
